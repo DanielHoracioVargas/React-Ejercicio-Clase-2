@@ -1,4 +1,3 @@
-var a = 120;
-var b =550;
-
-console.log(a+b);
+alert("Hola");
+var name = prompt("Cual es tu nombre?");
+alert(name + " bienvenido a curso de React");
